@@ -17,7 +17,7 @@
         <config.version>1.2.1</config.version>
         <metrics.version>3.2.2</metrics.version>
         <mongodb.version>3.5.0</mongodb.version>
-        <postgres.version>42.3.3</postgres.version>
+        <postgres.version>42.4.1</postgres.version>
         <main.class>com.l3harris.swim.Consumer</main.class>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.7</maven.compiler.source>
